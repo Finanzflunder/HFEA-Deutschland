@@ -42,14 +42,14 @@ Aber warum funktioniert HFEA dennoch? Ganz einfach: Wegen dem Hedge und dem Reba
 
 Hier habe ich mal ein Bild, wo genau eine solche Situation gezeigt wird:
 
-![Grafik, von 2007 bis 2022 bei der HFEA UPRO und TMF ausperformt](img/01/hfea_2007)
+![Grafik, von 2007 bis 2022 bei der HFEA UPRO und TMF ausperformt](img/01/hfea_2007.png)
 (Achtung: Logarithmische Y-Achse!)
 
 Wir haben 2007 noch 100k$ auf unserer Deponie. Als dann die Finanzkrise kommt, bricht der UPRO um fast 95% ein. Ein Portfolio, welches nur UPRO halten würde, hätte dann nur noch ca. 5k$ und würde, trotz des folgenden starken Wachstums, bis ca. 2014 benötigen um den ursprünglichen Betrag wieder herzustellen (hat hier jemand Pfadabhängigkeit gesagt 👀)?
 
 Der TMF dagegen ist die ganze Krise über ziemlich stabil, er gewinnt sogar zeitweise deutlich. Dementsprechend ist ein HFEA Portfolio auch nur um ca. 40% eingeknickt und konnte dann aber auch ziemlich gut durch das anschließende Wachstum vom UPRO profitieren. Nun mögen manche Neunmalklugen unter euch sagen „hätte ich nur auf TMF gesetzt wäre ich 2013 auf den gleichen Betrag wie bei HFEA gekommen“. Tja, das ist das schöne, wenn man Daten nur Auszugsweise betrachtet: Die Wahrheit ist, dass auch der TMF so seine Schwächephasen hat und im Schnitt weniger stark wächst als der UPRO. Daher schauen wir uns das noch einmal von 1986 bis 2018 an.
 
-![Grafik, von 1986 bis 2022 bei der HFEA UPRO und TMF ausperformt](img/01/hfea_1986)
+![Grafik, von 1986 bis 2022 bei der HFEA UPRO und TMF ausperformt](img/01/hfea_1986.png)
 (Achtung: Logarithmische Y-Achse!)
 
 Und hier sehen wir sehr deutlich, dass HFEA sowohl den UPRO als auch den TMF deutlich ausperformt (8-mal höherer Endbetrag!). Klar, es gibt Phasen da ist der UPRO mal etwas höher als HFEA, aber wer hoch fliegt kann bekanntlich auch tief fallen und so ist es mit dem UPRO ab dem Jahr 2000 geschehen. Der UPRO war erst 2018 wieder auf dem Niveau von vor 2000. HFEA hat dagegen schon 2011 den UPRO-Wert von kurz vor 2000 überschritten. Genau deswegen hat diese Strategie das Potenzial, trotz des hohen Risikos bei den einzelnen Anteilen, den Markt deutlich auszuperformen und damit vor allem auch den All World ETF.
