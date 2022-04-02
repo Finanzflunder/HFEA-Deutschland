@@ -1,5 +1,14 @@
 # Einleitung / Was ist die HFEA-Strategie?
 
+**ZL;NG:**
+
+* *Ich starte eine DD-Serie mit dem Ziel eine europäische HFEA Strategie zu entwickeln*
+* *Sehr viel Text wird sich nur darum drehen, wie die zugrundeliegenden Daten aufbereitet wurden*
+* *Erst ganz am Ende wird es die Resultate geben*
+* *HFEA funktioniert dank unkorreliertem Hedge, geeigneter Hebelauswahl und regelmäßiges Rebalancing*
+* *HFEA ist aber schwer in Deutschland umzusetzen*
+* *HFEA könnte in bestimmten Marktsituation unterperformen*
+
 ![Bild von Grafzahl, der ein Aktienchart hält](img/allgemein/zahlgraf.png)
 
 Liebe Schwestern und Brüder der Mauerstraße,
