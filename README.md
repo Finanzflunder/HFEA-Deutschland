@@ -11,20 +11,20 @@ Das Ziel dieses Repositories ist eine **datengetriebene Analyse** der HFEA-Strat
 
 ## Inhaltsverzeichnis
 
-| Kapitel 	| Titel                                                         	| Autor       	                                        |
-|---------	|---------------------------------------------------------------	|-----------------------------------------------------	|
-| 1       	| Einleitung / Was ist die HFEA-Strategie?                      	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
-| 2       	| Schatzkisten-Daten von 1943 / Schatzkisten-Fond               	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
-| 3.1     	| S&P 500, NASDAQ, Zinsdaten                                    	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
-| 3.2     	| Was können wir aus diesen Daten lernen?                       	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
-| 4       	| ETF-Preisberechnung / Was können wir aus diesen Daten lernen? 	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
-| 5       	| Ist eine europäische HFEA Strategie möglich?                  	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
-| 6       	| Verbessert Gold oder Cash die HFEA Strategie?                 	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
-| 7       	| Wie wirkt sich Nasdaq-100 statt S&P 500 aus?                  	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
-| 8       	| Hebel für den Langlauf                                        	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
-| 9       	| HFEA für den Langlauf                                         	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/)	|
-| 10      	| Wie wirken sich deutsche Steuern auf die Strategie aus?       	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
-| 11      	| Finanzieller Krisentourismus                                  	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) 	|
+| Kapitel | Titel                                                                           | Autor                                                |
+| ------- | ------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 1       | [Einleitung / Was ist die HFEA-Strategie?](text/01_Einleitung.md)               | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 2       | [Schatzkisten-Daten von 1943 / Schatzkisten-Fond](text/02_SchatzkistenDaten.md) | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 3.1     | S&P 500, NASDAQ, Zinsdaten                                                      | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 3.2     | Was können wir aus diesen Daten lernen?                                         | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 4       | ETF-Preisberechnung / Was können wir aus diesen Daten lernen?                   | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 5       | Ist eine europäische HFEA Strategie möglich?                                    | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 6       | Verbessert Gold oder Cash die HFEA Strategie?                                   | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 7       | Wie wirkt sich Nasdaq-100 statt S&P 500 aus?                                    | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 8       | Hebel für den Langlauf                                                          | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 9       | HFEA für den Langlauf                                                           | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 10      | Wie wirken sich deutsche Steuern auf die Strategie aus?                         | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
+| 11      | Finanzieller Krisentourismus                                                    | [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) |
 | 12      	| Fazit                                                         	| [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/)	|
 
 ## Hinweis zur Sprache
