@@ -2,7 +2,7 @@
 
 ⚠️ **Disclaimer** ⚠️
 
-Auf dieser Repository findet ihr Informationen zu der HFEA-Investmentstrategie. Ein Investment an der Börse ist immer mit Risiken (in Deutschland bis zum Totalverlust) verbunden. Dieses Repository dient der Informationen und stellt keine Handlungsempfehlungen dar. Die vorliegenden Informtionen stellt keine Aufforderung zum Kauf oder Verkauf einer Aktie, eines Wertpapiers oder einer sonstigen Anlage dar. Kurzfassung: **Dies ist keine Anlageberatung!**
+Auf diesem Repository findet ihr Informationen zu der HFEA-Investmentstrategie. Ein Investment an der Börse ist immer mit Risiken (in Deutschland bis zum Totalverlust) verbunden. Dieses Repository dient der Informationen und stellt keine Handlungsempfehlungen dar. Die vorliegenden Informationen stellen keine Aufforderung zum Kauf oder Verkauf einer Aktie, eines Wertpapiers oder einer sonstigen Anlage dar. Kurzfassung: **Dies ist keine Anlageberatung!**
 
 ## Allgemein
 Dieses Repository stellt Informationen zur der **HFEA**-Strategie zur Verfügung und wie eine potentielle Umsetzung in Deutschland aussehen könnte. Die HFEA-Strategie versucht eine bessere Rendite als der Markt zu erzielen, dabei aber weitestgehend passiv zu sein. Hauptautor ist [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/), der diese Analysen im Unter [/r/mauerstrassenwetten](https://www.reddit.com/r/mauerstrassenwetten/) veröffentlicht hat. Ich bin [/u/FinanzFlunder](https://www.reddit.com/user/FinanzFlunder/) und versuche das Wissen hier in etwas strukturierter Weise aufzubereiten als es in Reddit möglich ist.
@@ -29,6 +29,7 @@ Das Ziel dieses Repositories ist eine **datengetriebene Analyse** der HFEA-Strat
 [/u/ZahlGraf](https://www.reddit.com/user/ZahlGraf/) hat die Analysen im Unter [/r/mauerstrassenwetten](https://www.reddit.com/r/mauerstrassenwetten/) veröffentlicht. Dort werden viele englischsprachige Begriffe schlechtmöglichst eingedeutscht, sodass viele Texte auf Anhieb für Außenstehende schwierig zu verstehen sein könnten. Deswegen hier ein Mini-Wörterbuch:
 
 (ToDo)
+
 
 ## Mitarbeit 💪🏼
 Gerne gesehen - Ich gehe nicht davon aus, dass dieses Repository viel Anklang findet, deswegen gibt es keinen Prozess zur Mitarbeit: Einfach Forken, im Branch was ändern und dann ein PR stellen.
