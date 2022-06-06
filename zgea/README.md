@@ -1,13 +1,3 @@
----
-layout: page
-title: Hello World!
-tagline: Supporting tagline
-output:
-  html_document:
-    includes:
-      in_header: images/2xMAwithMonthly_2000samples.html
----
-
 # HFEA-Germany
 
 ![Run coverage not test coverage!](./images/coverage.svg)
@@ -32,9 +22,7 @@ mostly left unchanged and the largest change are added docstrings, testing, clea
 said, minor changes have been made for visualization as in correction of the quartiles of the growth series and final performance distribution histograms,
 for computational speed-up, for inclusion of models with transaction costs and for models with rebalancing based on volatility.
 
-![Monte Carlo 2000 sample plot for a 15 year period, shuffled from historic data](./images/2xMAwithMonthly_2000samples.html)
-
-<img src="./images/2xMAwithMonthly_2000samples.html" height="100"/>
+![Monte Carlo 2000 sample plot for a 15 year period, shuffled from historic data](./images/growth_example.png)
 
 If you go through the code, there are some `DOCU` flags left which IMO need documentation/ brief explanations not provided yet. `FUTURE` flags hint on 
 behaviour that could be changed. `NOTE` are mostly notes of caution.
