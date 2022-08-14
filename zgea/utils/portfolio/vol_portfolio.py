@@ -49,11 +49,15 @@ class VolPortfolio():
             
             # initialize volatility properties
             if 'vol' not in v or v['vol'] == 1:
-                v['vol'] = 1
+                v['vol'] = 1        # length of volatility window
                 v['vol_asset'] = name
             if 'vol_2' not in v or v['vol_2'] == 1:
                 v['vol_2'] = v['vol']
                 v['vol_asset'] = name
+            if 'vol_val' not in v:
+                v['vol_val'] = 0.1  # volatility threshold
+            if 'vol_val2' not in v:
+                v['vol_val2'] = v['vol_val']
             assert 'vol_asset' in v, "Every asset needs a key 'vol_asset'!"
 
         # assert allocation of assets <= 100%
@@ -133,7 +137,7 @@ class VolPortfolio():
                 compare_asset_price = data.loc[i, self._setup[name]['vol_asset']]
 
                 # hold if below empirical volatility
-                if (vol.loc[i, name] <= 0.08):
+                if (vol.loc[i, name] <= self._setup[name]['vol_val']):
                     if self._values[name] is not None:
                         # correct asset price by spread
                         real_asset_price = asset_price * (1 + self._spread)
@@ -151,8 +155,8 @@ class VolPortfolio():
                         self._values[name] = None
 
                 # use second average (usually defined to be shorter) as additional earlier buying signal
-                elif (vol.loc[i, name] > 0.08) and (vol_2.loc[i, name] <= 0.05):
-                    print(i)
+                elif (vol.loc[i, name] > self._setup[name]['vol_val']) and (vol_2.loc[i, name] <= self._setup[name]['vol_val2']):
+                    # print(i)
                     if self._values[name] is not None:
                         # correct asset price by spread
                         real_asset_price = asset_price * (1 + self._spread)
@@ -170,8 +174,8 @@ class VolPortfolio():
                         self._values[name] = None
 
                 # sell if above both volatilities
-                elif (vol.loc[i, name] > 0.08):
-                    print(i)
+                elif (vol.loc[i, name] > self._setup[name]['vol_val']):
+                    # print(i)
                     if self._values[name] is None:
                         # correct asset price by spread
                         real_asset_price = asset_price * (1 - self._spread)
